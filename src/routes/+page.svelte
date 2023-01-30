@@ -1,4 +1,5 @@
-<body><div class="main">
+<body>
+  <div class="main">
     <img src="./assets/TCS_Logo_Full.png" width="350" alt="">
   <h2>Which coins would you like to swap?</h2>
   <h4>Coins:</h4>
