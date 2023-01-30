@@ -1,6 +1,6 @@
 <body>
   <div class="main">
-    <img src="./assets/TCS_Logo_Full.png" width="350" alt="">
+    <img src="src/assets/TCS_Logo_Full.png" width="350" alt="">
   <h2>Which coins would you like to swap?</h2>
   <h4>Coins:</h4>
   <form id="coinSwap" action="http://localhost:8080/" method="POST">
@@ -28,7 +28,7 @@
     
 
     body {
-      background-image: url("./assets/bg.png");
+      background-image: url("src/assets/bg.png");
     
       -moz-background-size: cover;
       -webkit-background-size: cover;
